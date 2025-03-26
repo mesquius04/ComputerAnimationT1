@@ -1,0 +1,63 @@
+# ninja log v5
+10	91	0	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	c69216ac88dae60f
+157	683	7646975346639471	CMakeFiles/ComputerAnimation.dir/src/framework/math/vec2.cpp.obj	4ae2b619d76f3bdd
+150	705	7646975346884481	CMakeFiles/ComputerAnimation.dir/src/framework/math/transform.cpp.obj	c6a14274668bb57c
+142	715	7646975346972296	CMakeFiles/ComputerAnimation.dir/src/framework/math/quat.cpp.obj	749d5925a926a77a
+164	732	7646975347124452	CMakeFiles/ComputerAnimation.dir/src/framework/math/vec3.cpp.obj	d5087e6c365c3e05
+685	889	7646975348669986	CMakeFiles/ComputerAnimation.dir/src/framework/math/vec4.cpp.obj	1f880c84629b1619
+135	2290	7646975362675795	CMakeFiles/ComputerAnimation.dir/src/framework/math/mat4.cpp.obj	2e992be644abd270
+2290	3351	7646975373249440	CMakeFiles/ComputerAnimation.dir/src/framework/animations/pose.cpp.obj	4ebdfdbd81ebec8b
+113	3591	7646975375744820	CMakeFiles/ComputerAnimation.dir/src/framework/camera.cpp.obj	8b1127805e6e2da4
+105	4036	7646975380202711	CMakeFiles/ComputerAnimation.dir/src/framework/application.cpp.obj	3867593a4cbd3e6f
+98	4050	7646975380343302	CMakeFiles/ComputerAnimation.dir/src/main.cpp.obj	f44c21a8cd6564ad
+128	4479	7646975384434230	CMakeFiles/ComputerAnimation.dir/src/framework/utils.cpp.obj	b7ef7903ab6835b7
+3591	4635	7646975385758622	CMakeFiles/ComputerAnimation.dir/libraries/imguizmo/ImGuizmo.cpp.obj	650c1bcfb268fdaa
+120	4700	7646975386622187	CMakeFiles/ComputerAnimation.dir/src/framework/entity.cpp.obj	dd4ec19abd35145d
+706	4722	7646975386851413	CMakeFiles/ComputerAnimation.dir/src/framework/graphics/material.cpp.obj	132e55b08114c47d
+3351	4730	7646975387098683	CMakeFiles/ComputerAnimation.dir/src/framework/animations/skeleton.cpp.obj	448f6c792a9546a9
+4050	5076	7646975390551722	CMakeFiles/imgui.dir/libraries/imgui/imgui_demo.cpp.obj	f0dc4305c569af9d
+715	5240	7646975392065095	CMakeFiles/ComputerAnimation.dir/src/framework/graphics/mesh.cpp.obj	a876f7ab12c1b72d
+739	5253	7646975392285323	CMakeFiles/ComputerAnimation.dir/src/framework/graphics/shader.cpp.obj	c28c157cdcbb5731
+892	5421	7646975393955271	CMakeFiles/ComputerAnimation.dir/src/framework/graphics/texture.cpp.obj	1566bd73537e4df6
+4701	5528	7646975394695076	CMakeFiles/imgui.dir/libraries/imgui/imgui_tables.cpp.obj	d0a1e4282e265d79
+4479	5742	7646975397074772	CMakeFiles/imgui.dir/libraries/imgui/imgui_draw.cpp.obj	375c7d854e829e19
+4731	5757	7646975397479752	CMakeFiles/imgui.dir/libraries/imgui/backends/imgui_impl_opengl3.cpp.obj	8bf9fe58efd0b76f
+4635	5765	7646975397497044	CMakeFiles/imgui.dir/libraries/imgui/imgui_widgets.cpp.obj	58a871c3e74b1e1f
+5076	5773	7646975397537138	libraries/glfw/src/CMakeFiles/glfw.dir/context.c.obj	a0b653c218fe8cf9
+5241	5947	7646975399060455	libraries/glfw/src/CMakeFiles/glfw.dir/init.c.obj	59a087649db12976
+5254	6015	7646975400051670	libraries/glfw/src/CMakeFiles/glfw.dir/input.c.obj	20cb7d7167770160
+4723	6080	7646975400239089	CMakeFiles/imgui.dir/libraries/imgui/backends/imgui_impl_glfw.cpp.obj	76882622c004528c
+5421	6336	7646975403110499	libraries/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj	583333ebdfdd8115
+5529	6344	7646975403100499	libraries/glfw/src/CMakeFiles/glfw.dir/platform.c.obj	49ef15a93f8a4e1e
+5757	6353	7646975403320141	libraries/glfw/src/CMakeFiles/glfw.dir/window.c.obj	bf6413c8aabed82a
+4037	6361	7646975403274956	CMakeFiles/imgui.dir/libraries/imgui/imgui.cpp.obj	417958d0d3cf7dfb
+5742	6369	7646975403394675	libraries/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj	4871442554ec2ae6
+5773	6454	7646975404389691	libraries/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	b3fdb47134135be0
+5765	6462	7646975404319699	libraries/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj	c4fa83bfa9ac3f8e
+5947	6787	7646975407173042	libraries/glfw/src/CMakeFiles/glfw.dir/null_init.c.obj	b0bbcf6d294fe8a8
+6016	6796	7646975407790721	libraries/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj	270a9e3047401fb4
+6080	6804	7646975407894934	libraries/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj	313219759b448a80
+6361	6831	7646975408132943	libraries/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj	b4ca39c872f3b2b9
+6353	6851	7646975408132943	libraries/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj	56fe90380a91b0c1
+6345	6878	7646975408679328	libraries/glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj	c9dd0891c4d3f84c
+6336	6889	7646975408575470	libraries/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj	cccd8d6fc4a41b7d
+6369	6974	7646975409566520	libraries/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj	b8166e4462cf0aac
+6454	7089	7646975410788029	libraries/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	8f03447eaf6629b6
+6831	7183	7646975411723949	libraries/glew-cmake/CMakeFiles/libglew_static.dir/build/glew.rc.res	ddee257b3df18887
+6878	7197	7646975411838049	libraries/glew-cmake/CMakeFiles/libglew_shared.dir/build/glew.rc.res	88070758c45960bc
+6462	7270	7646975412623825	libraries/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	48f8f7ab51a04922
+6796	7302	7646975412943121	libraries/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj	3f3bc7dc42bb140a
+6787	7321	7646975413093930	libraries/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj	e7f89cdd48ac410f
+7321	7507	7646975414695990	libraries/glfw/src/glfw3.lib	5b1241721d46594a
+6804	7698	7646975416860920	libraries/glew-cmake/CMakeFiles/libglew_static.dir/src/glew.c.obj	25ee0bb38bfcd12f
+6851	7755	7646975417398827	libraries/glew-cmake/CMakeFiles/libglew_shared.dir/src/glew.c.obj	e7dc01d1b95541b8
+7698	7828	7646975418111405	libraries/glew-cmake/lib/glewd.lib	44354b7cfe6b1ff3
+7829	7941	7646975419201295	imgui.lib	621ef278bad39277
+7755	8259	7646975422232475	libraries/glew-cmake/bin/glew-sharedd.dll	606dac77d910900c
+7755	8259	7646975422232475	libraries/glew-cmake/lib/glew-sharedd.lib	606dac77d910900c
+7942	8687	7646975426291078	ComputerAnimation.exe	a9751b76ebf2fd69
+73	119	0	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	c69216ac88dae60f
+123	1992	7646977795335585	CMakeFiles/ComputerAnimation.dir/src/framework/application.cpp.obj	3867593a4cbd3e6f
+1993	2615	7646977800353172	ComputerAnimation.exe	a9751b76ebf2fd69
+56	103	0	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	c69216ac88dae60f
+35	102	0	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	c69216ac88dae60f

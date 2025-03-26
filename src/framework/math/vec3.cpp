@@ -44,9 +44,8 @@ vec3 operator/(const vec3& l, float f)
 float dot(const vec3& l, const vec3& r)
 {
 	// TODO
-	// ..
-
-	return 0.f;
+	float result = l.x * r.x + l.y * r.y + l.z * r.z;
+	return result;
 }
 
 // Sometimes the length can be usefull in square space to avoid doing the square root operation
@@ -133,9 +132,7 @@ vec3 reflect(const vec3& a, const vec3& b)
 vec3 cross(const vec3& l, const vec3& r)
 {
 	// TODO
-	// ..
-
-	return vec3();
+	return vec3(l.y*r.z - l.z*r.y, l.z*r.x-l.x*r.z, l.x*r.y-l.y*r.x);
 }
 
 /*
