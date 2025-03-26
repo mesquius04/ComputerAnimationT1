@@ -1,0 +1,24 @@
+# ninja log v5
+7	211	7646929767308617	stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-mkdir	90e73c6593ad79bb
+7	211	7646929767308617	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-mkdir	90e73c6593ad79bb
+213	769	7646929772981929	stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-download	409f70449e1cebc9
+213	769	7646929772981929	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-download	409f70449e1cebc9
+771	881	7646929774073747	stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-update	72f779280fb6c3f3
+771	881	7646929774073747	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-update	72f779280fb6c3f3
+881	1060	7646929775836740	stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-patch	43b5629f75c14ee4
+881	1060	7646929775836740	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-patch	43b5629f75c14ee4
+1061	1233	7646929777611320	stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-copyfile	deff8b7fbaf3bbc0
+1061	1233	7646929777611320	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/stb_image_h-src/stb_image.h	deff8b7fbaf3bbc0
+1061	1233	7646929777611320	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-copyfile	deff8b7fbaf3bbc0
+1233	1375	7646929778946592	stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-configure	815039303f0c7833
+1233	1375	7646929778946592	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-configure	815039303f0c7833
+1376	1558	7646929780831878	stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-build	11933381e0129478
+1376	1558	7646929780831878	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-build	11933381e0129478
+1559	1745	7646929782672464	stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-install	d999ed843c381ab3
+1559	1745	7646929782672464	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-install	d999ed843c381ab3
+1745	1926	7646929784530689	stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-test	f8a3da354b3b3f2b
+1745	1926	7646929784530689	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-test	f8a3da354b3b3f2b
+1927	2130	7646929786477647	CMakeFiles/stb_image_h-populate-complete	d6f0fae82d50a289
+1927	2130	7646929786477647	stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-done	d6f0fae82d50a289
+1927	2130	7646929786477647	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/CMakeFiles/stb_image_h-populate-complete	d6f0fae82d50a289
+1927	2130	7646929786477647	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/stb_image_h-subbuild/stb_image_h-populate-prefix/src/stb_image_h-populate-stamp/stb_image_h-populate-done	d6f0fae82d50a289

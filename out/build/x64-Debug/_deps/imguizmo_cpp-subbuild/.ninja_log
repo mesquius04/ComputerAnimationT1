@@ -1,0 +1,24 @@
+# ninja log v5
+5	186	7646929703749544	imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-mkdir	2c64ec8e5710085
+5	186	7646929703749544	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_cpp-subbuild/imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-mkdir	2c64ec8e5710085
+188	739	7646929709232980	imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-download	f25e699fd1e73340
+188	739	7646929709232980	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_cpp-subbuild/imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-download	f25e699fd1e73340
+740	911	7646929710978524	imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-update	ffc40ab9728c7214
+740	911	7646929710978524	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_cpp-subbuild/imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-update	ffc40ab9728c7214
+912	1092	7646929712779824	imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-patch	7f5e9f0deff6ffab
+912	1092	7646929712779824	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_cpp-subbuild/imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-patch	7f5e9f0deff6ffab
+1092	1321	7646929715070019	imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-copyfile	8006e3dde8d5cf44
+1092	1321	7646929715070019	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_cpp-src/ImGuizmo.cpp	8006e3dde8d5cf44
+1092	1321	7646929715070019	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_cpp-subbuild/imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-copyfile	8006e3dde8d5cf44
+1322	1458	7646929716521438	imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-configure	288bfee47009a211
+1322	1458	7646929716521438	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_cpp-subbuild/imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-configure	288bfee47009a211
+1458	1609	7646929717952084	imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-build	96c93ef3539568bb
+1458	1609	7646929717952084	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_cpp-subbuild/imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-build	96c93ef3539568bb
+1610	1741	7646929719352064	imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-install	7bdfaaf89f86a59b
+1610	1741	7646929719352064	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_cpp-subbuild/imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-install	7bdfaaf89f86a59b
+1742	1891	7646929720746421	imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-test	b2709f70378d41cc
+1742	1891	7646929720746421	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_cpp-subbuild/imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-test	b2709f70378d41cc
+1891	2144	7646929723317928	CMakeFiles/imguizmo_cpp-populate-complete	1ddeec126f8fdcf2
+1891	2144	7646929723317928	imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-done	1ddeec126f8fdcf2
+1891	2144	7646929723317928	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_cpp-subbuild/CMakeFiles/imguizmo_cpp-populate-complete	1ddeec126f8fdcf2
+1891	2144	7646929723317928	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_cpp-subbuild/imguizmo_cpp-populate-prefix/src/imguizmo_cpp-populate-stamp/imguizmo_cpp-populate-done	1ddeec126f8fdcf2

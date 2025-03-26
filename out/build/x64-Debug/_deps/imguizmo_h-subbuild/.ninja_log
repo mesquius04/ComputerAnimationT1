@@ -1,0 +1,24 @@
+# ninja log v5
+5	216	7646929674499369	imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-mkdir	a6922cc121bbbb7d
+5	216	7646929674499369	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-subbuild/imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-mkdir	a6922cc121bbbb7d
+218	776	7646929680202721	imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-download	4a1bc852f3e325fd
+218	776	7646929680202721	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-subbuild/imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-download	4a1bc852f3e325fd
+778	899	7646929681425150	imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-update	fe2673fa763ee651
+778	899	7646929681425150	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-subbuild/imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-update	fe2673fa763ee651
+899	1000	7646929682441246	imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-patch	b80096164a78f77d
+899	1000	7646929682441246	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-subbuild/imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-patch	b80096164a78f77d
+1000	1146	7646929683824051	imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-copyfile	c1c6265db6055233
+1000	1146	7646929683824051	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-src/ImGuizmo.h	c1c6265db6055233
+1000	1146	7646929683824051	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-subbuild/imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-copyfile	c1c6265db6055233
+1147	1326	7646929685633358	imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-configure	f2c818c168283df2
+1147	1326	7646929685633358	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-subbuild/imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-configure	f2c818c168283df2
+1327	1445	7646929686856601	imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-build	27fb96b6548535d8
+1327	1445	7646929686856601	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-subbuild/imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-build	27fb96b6548535d8
+1446	1629	7646929688661774	imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-install	409e2b7562b69ead
+1446	1629	7646929688661774	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-subbuild/imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-install	409e2b7562b69ead
+1630	1807	7646929690476692	imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-test	4ffefc4fa4aacc82
+1630	1807	7646929690476692	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-subbuild/imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-test	4ffefc4fa4aacc82
+1807	2036	7646929692798883	CMakeFiles/imguizmo_h-populate-complete	99dc71c289597164
+1807	2036	7646929692798883	imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-done	99dc71c289597164
+1807	2036	7646929692798883	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-subbuild/CMakeFiles/imguizmo_h-populate-complete	99dc71c289597164
+1807	2036	7646929692798883	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/imguizmo_h-subbuild/imguizmo_h-populate-prefix/src/imguizmo_h-populate-stamp/imguizmo_h-populate-done	99dc71c289597164

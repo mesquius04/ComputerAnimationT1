@@ -1,0 +1,24 @@
+# ninja log v5
+6	185	7646929734260883	cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-mkdir	8ff77b1f59e603c4
+6	185	7646929734260883	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-mkdir	8ff77b1f59e603c4
+188	930	7646929741664165	cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-download	21ab1f0ce62fccac
+188	930	7646929741664165	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-download	21ab1f0ce62fccac
+932	1115	7646929743549549	cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-update	4df9e8a80d40343e
+932	1115	7646929743549549	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-update	4df9e8a80d40343e
+1115	1299	7646929745404542	cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-patch	d09ba6be61883190
+1115	1299	7646929745404542	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-patch	d09ba6be61883190
+1299	1493	7646929747346818	cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-copyfile	445a4576f631f841
+1299	1493	7646929747346818	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/cgltf_h-src/cgltf.h	445a4576f631f841
+1299	1493	7646929747346818	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-copyfile	445a4576f631f841
+1493	1662	7646929749074914	cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-configure	42c5fc4350992da2
+1493	1662	7646929749074914	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-configure	42c5fc4350992da2
+1662	1814	7646929750596530	cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-build	d70e4065945b48ac
+1662	1814	7646929750596530	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-build	d70e4065945b48ac
+1815	1983	7646929752243760	cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-install	2639a635f87cefd3
+1815	1983	7646929752243760	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-install	2639a635f87cefd3
+1983	2163	7646929754053174	cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-test	6b1b0d9d7a145f0b
+1983	2163	7646929754053174	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-test	6b1b0d9d7a145f0b
+2164	2416	7646929756578431	CMakeFiles/cgltf_h-populate-complete	d269e18c95a5ab86
+2164	2416	7646929756578431	cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-done	d269e18c95a5ab86
+2164	2416	7646929756578431	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/CMakeFiles/cgltf_h-populate-complete	d269e18c95a5ab86
+2164	2416	7646929756578431	C:/Users/marti/PROGRAMES UNI/3r/animacio/CAFramework/out/build/x64-Debug/_deps/cgltf_h-subbuild/cgltf_h-populate-prefix/src/cgltf_h-populate-stamp/cgltf_h-populate-done	d269e18c95a5ab86
